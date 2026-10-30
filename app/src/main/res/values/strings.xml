@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">교내 분실물 관리</string>
+    <string name="add_item">분실물·습득물 등록</string>
+    <string name="item_image">물품 사진</string>
+    <string name="type_lost">분실물</string>
+    <string name="type_found">습득물</string>
+    <string name="status_open">미완료</string>
+    <string name="status_completed">인계 완료</string>
+    <string name="written_by">작성자: %1$s</string>
+    <string name="written_by_me">작성자: %1$s · 내 글</string>
+    <string name="back_to_list">목록</string>
+    <string name="owner_only">본인이 작성한 게시물만 수정·삭제하거나 상태를 변경할 수 있습니다.</string>
+    <string name="owner_edit_only">본인이 작성한 게시물만 수정할 수 있습니다.</string>
+    <string name="save">저장</string>
+    <string name="cancel">취소</string>
+    <string name="edit">수정</string>
+    <string name="delete">삭제</string>
+    <string name="form_add_title">물품 등록</string>
+    <string name="form_edit_title">물품 수정</string>
+    <string name="select_photo">사진 선택</string>
+    <string name="remove_photo">사진 제거</string>
+    <string name="item_name">물품명</string>
+    <string name="date">날짜</string>
+    <string name="description">특징 및 상세 설명</string>
+    <string name="found_place">발견·분실 장소</string>
+    <string name="mark_complete">인계 완료로 변경</string>
+    <string name="mark_open">보관 중으로 되돌리기</string>
+    <string name="delete_confirm_title">게시물 삭제</string>
+    <string name="delete_confirm_message">이 게시물을 삭제하시겠습니까?</string>
+    <string name="enter_item_name">물품명을 입력하세요.</string>
+    <string name="enter_place">장소를 입력하세요.</string>
+    <string name="select_date">날짜를 선택하세요.</string>
+    <string name="no_description">상세 설명이 없습니다.</string>
+    <string name="close">닫기</string>
+    <string name="place_value">장소: %1$s</string>
+    <string name="date_value">날짜: %1$s</string>
+</resources>
